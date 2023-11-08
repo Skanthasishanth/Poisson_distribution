@@ -80,7 +80,7 @@ else:
 ![exp 02](https://github.com/Skanthasishanth/Poisson_distribution/assets/118298456/e54f880f-186a-4ff2-bdb8-03ce24fd224b)
 
 
-# Results :
+# Result :
 
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
  
